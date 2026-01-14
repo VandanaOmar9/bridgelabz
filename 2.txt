@@ -1,0 +1,13 @@
+git init-- New git repo start karta hai
+git clone <url> -- remote repo ko apne system me copy karta hai
+git branch-- saari branches show karta hai
+git add "filename"-- file ko staging area me add karta hai
+git checkout <branch>-- Branch change karta hai
+git branch <name>-- new branch banata hai
+git log-- commit history dikhata hai
+git status--batata hai konsi file modified/staged/untracked hai
+git push -u origin--specific branch push karta hai
+git pull origin--remote se latest code laata hai
+git commit -m "message"--changes ko save karta hai with message
+git git checkout -b "name"-- new branch banakar usi me switch karta hai
+git add.-- sari files staging area me add karta hai
