@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2026-02-02T06:26:59.691Z",
+    "name": "van",
+    "email": "van@1gmail.com",
+    "password": "hey1234"
+  },
+  {
+    "id": "2026-02-02T10:47:24.018Z",
+    "name": "vandana",
+    "email": "van@gmail.com",
+    "password": "van123"
+  },
+  {
+    "id": 1770197684274,
+    "name": "vandana",
+    "email": "vandana@gmail.com",
+    "password": "vandana123"
+  },
+  {
+    "id": 1770198975397,
+    "name": "chhavi",
+    "email": "chhavi@gmail.com",
+    "password": "chhavi123"
+  },
+  {
+    "id": 1770199097756,
+    "name": "hey",
+    "email": "hey@gmail.com",
+    "password": "heyi123"
+  }
+]

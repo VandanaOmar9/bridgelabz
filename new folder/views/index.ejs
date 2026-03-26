@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>This is user page</h1>
+    <h1>2+2</h1>
+    <h1><%= 2+2 %></h1>
+
+    <form action="http://localhost:3000/user" method="POST">
+        <input type= "text" name= "name" placeholder= "Enter ur name">
+        <input type= "email" name= "email" placeholder= "Enter ur mail">
+        <button type="submit" >submit</button>
+
+    </form>
+    
+    <ul>
+          <% userData.forEach((ele)=>{ %>
+        <li> <%= ele.id %>  <%= ele.name %>  <%= ele.email %> </li>
+   
+<% }) %>
+    </ul>
+
+  
+
+    
+</body>
+</html>
