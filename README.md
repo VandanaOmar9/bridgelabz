@@ -4,4 +4,4 @@ Project Backend repo link:- https://github.com/Swatipandey2006/Realtime-Project-
 
 Documentation link : https://drive.google.com/file/d/1hVst8iBjyXXIk0O4JmLL-qmLFmEv0Z6V/view?usp=drivesdk.
 
-project deployment link: https://tinyurl.com/nexusdashlogin
+project deployment link: https://tinyurl.com/nexusdashlogin 
